@@ -1,0 +1,4 @@
+[
+  {"host": "pwrtool500-cold-2404.local", "role": "battery", "name": "PwrTool Battery Shunt", "instance": 140, "capacity": 314},
+  {"host": "pwrtool500-237bbc.local", "role": "dcsystem", "name": "PwrTool DC Loads", "instance": 141}
+]
